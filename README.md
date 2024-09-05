@@ -1,4 +1,4 @@
 # Aprendendo
- primeiro repositorio 
+ Primeiro repositorio, 
 Esse é o primeiro de muitos repositorios!
  
